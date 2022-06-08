@@ -27,6 +27,12 @@ The output of the logistic function is not symmetric around zero. So the output 
 6.Initialize a single neuron neural network\
 7.Train neural network using training data\
 8.Test neural network with new data
+```
+
+
+
+
+```
 ## Program:
 ```python
 Program to implement the sigmoid activation function in a feed forward ANN.
