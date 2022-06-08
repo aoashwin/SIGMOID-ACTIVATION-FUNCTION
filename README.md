@@ -1,6 +1,6 @@
 ### EX NO: 05
 ### DATE :
-# <p align="center">SIGMOID-ACTIVATION-FUNCTION</p>
+# <p align="center">SIGMOID ACTIVATION FUNCTION</p>
 ## Aim:
   To develop a python code that creates a simple feed-forward neural networks or perception with the Sigmoid activation function. The neuron has to be trained such that it can predict the correct output value when provided with a new set of input data.
   
@@ -17,10 +17,7 @@ The limitations of sigmoid function are :
 The derivative of the function is f'(x) = sigmoid(x)*(1-sigmoid(x)).
 
 The output of the logistic function is not symmetric around zero. So the output of all the neurons will be of the same sign. This makes the training of the neural network more difficult and unstable.
-```
 
-
-```
 ## Algorithm
 1.Import packages\
 2.Define neural network class\
@@ -30,22 +27,7 @@ The output of the logistic function is not symmetric around zero. So the output 
 6.Initialize a single neuron neural network\
 7.Train neural network using training data\
 8.Test neural network with new data
-```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
 ## Program:
 ```python
 Program to implement the sigmoid activation function in a feed forward ANN.
